@@ -29,7 +29,7 @@ const Hero = () => {
                     words='Transforming Concepts into Seamless User Experiences' />
 
                 <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'>
-                    Hi, I am Nishank, a web Developer based in Pokhara Nepal. 
+                    Hi, My name is Nishank, a Web Developer based in Pokhara Nepal. 
                 </p>
                 <a href="#about">
                     <MagicButton 
